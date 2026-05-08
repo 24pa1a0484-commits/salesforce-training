@@ -1,36 +1,39 @@
-Day 1 - CRM Basics
-What is CRM
+# Day 1 - CRM Basics
+     
+## What is CRM
 CRM (Customer Relationship Management) is a system used by companies to manage customer data, sales, communication, and business processes.
 
-Why Companies Use Salesforce
+## Why Companies Use Salesforce
 Companies use Salesforce to:
+- Manage customer relationships
+- Track sales
+- Improve communication
+- Automate business processes
 
-Manage customer relationships
-Track sales
-Improve communication
-Automate business processes
-Important Concepts
-Account
+## Important Concepts
+
+### Account
 Represents a company or organization.
 
-Contact
+### Contact
 Represents a person associated with an account.
 
-Opportunity
+### Opportunity
 Represents a potential sales deal.
 
-Business Flow
+## Business Flow
 Lead → Contact → Opportunity → Customer
 
-Real World Mapping (College Admission Example)
-Account = College
-Contact = Student
-Lead = Interested Student
-Opportunity = Admission Process
-Trailhead Work
-Completed:
+## Real World Mapping (College Admission Example)
 
-Salesforce Values
-Salesforce Developer Quick Look
-Salesforce CRM
-Trailhead Playground Management
+- Account = College
+- Contact = Student
+- Lead = Interested Student
+- Opportunity = Admission Process
+
+## Trailhead Work
+Completed:
+- Salesforce Values
+- Salesforce Developer Quick Look
+- Salesforce CRM
+- Trailhead Playground Management
